@@ -1,0 +1,13 @@
+Sales Feedback
+
+        Recent lost or delayed deals:
+        - Horizon Bank delayed expansion due to missing Microsoft Teams integration.
+        - DeltaMed asked for audit log exports before legal approval.
+        - ShopVerse requested role-based executive dashboards.
+        - Titan Logistics asked about webhook reliability guarantees.
+
+        Sales priority ranking:
+        1. Microsoft Teams integration
+        2. Audit log export
+        3. Role-based dashboards
+        4. Webhook reliability

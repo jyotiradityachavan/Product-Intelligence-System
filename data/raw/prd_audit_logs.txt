@@ -1,0 +1,18 @@
+Product Requirements Document: SAML Audit Log Export
+
+        Problem:
+        Enterprise compliance teams need exportable SAML SSO sign-in history.
+
+        Goals:
+        - Allow admins to export sign-in events by date range.
+        - Include user email, identity provider, timestamp, IP address, and status.
+        - Support CSV export in MVP.
+        - Retain logs for 180 days for Enterprise plans.
+
+        Non-goals:
+        - Real-time anomaly detection.
+        - SIEM integrations.
+
+        Success metrics:
+        - Reduce compliance-related support tickets by 30%.
+        - Improve Enterprise renewal confidence.

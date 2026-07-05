@@ -1,0 +1,20 @@
+Competitor Analysis
+
+        Competitor A:
+        - Strong Microsoft Teams integration.
+        - Offers role-based dashboards.
+        - Weakness: expensive implementation services.
+
+        Competitor B:
+        - Strong compliance reporting.
+        - Has audit log export and SIEM integrations.
+        - Weakness: poor workflow automation UX.
+
+        Competitor C:
+        - Excellent onboarding templates.
+        - Fast dashboard experience for mid-market teams.
+        - Weakness: limited enterprise controls.
+
+        Market implication:
+        The product is exposed in Enterprise deals where Teams integration,
+        audit logs, and role-based dashboards are expected.

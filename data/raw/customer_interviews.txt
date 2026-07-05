@@ -1,0 +1,17 @@
+Customer Interview Notes
+
+        Interview 1: Acme Finance
+        They rely on the executive dashboard during Monday leadership meetings.
+        Slow dashboard performance damages trust in the product.
+
+        Interview 2: ZenHealth
+        Compliance reporting is a renewal risk. They need CSV audit log export
+        before the next quarterly review.
+
+        Interview 3: BrightOps
+        New admins do not know where to start with workflow automation.
+        They asked for examples and templates.
+
+        Interview 4: LogiCore
+        Webhook failures create operational blind spots in warehouse workflows.
+        They care more about reliability than new integrations.

@@ -1,0 +1,21 @@
+GitHub Issues Summary
+
+        #442 Dashboard query runs full table scan for large accounts.
+        Severity: High
+        Labels: performance, backend
+
+        #451 Webhook retry queue loses messages after worker restart.
+        Severity: Critical
+        Labels: reliability, infrastructure
+
+        #466 Slack rate-limit handling is incomplete.
+        Severity: Medium
+        Labels: integration, alerts
+
+        #470 Workflow builder empty state lacks guidance.
+        Severity: Low
+        Labels: ux, onboarding
+
+        #482 Missing audit event model for SAML exports.
+        Severity: Medium
+        Labels: security, compliance

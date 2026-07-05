@@ -1,0 +1,14 @@
+Q2 Product Review Meeting Notes
+
+        Main themes:
+        - Enterprise customers continue to ask for better compliance capabilities.
+        - Performance concerns are growing around executive dashboards.
+        - Sales says Microsoft Teams integration is blocking three expansion deals.
+        - Support says workflow builder confusion is causing onboarding friction.
+        - Engineering warns that webhook reliability needs investment before adding more integrations.
+
+        Decisions:
+        - Prioritize dashboard performance investigation.
+        - Scope SAML audit log export.
+        - Research Microsoft Teams integration demand.
+        - Create onboarding templates for common workflows.

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "FR-201",
+    "title": "Role-based dashboards",
+    "votes": 43,
+    "segment": "Enterprise",
+    "description": "Admins want different dashboard views for executives, analysts, and support managers."
+  },
+  {
+    "id": "FR-202",
+    "title": "Bulk edit automations",
+    "votes": 31,
+    "segment": "Business",
+    "description": "Operations teams need to update multiple automation rules at once."
+  },
+  {
+    "id": "FR-203",
+    "title": "Native Microsoft Teams integration",
+    "votes": 55,
+    "segment": "Enterprise",
+    "description": "Several customers use Teams instead of Slack and want alert delivery there."
+  },
+  {
+    "id": "FR-204",
+    "title": "Workflow templates",
+    "votes": 27,
+    "segment": "Startup",
+    "description": "New users want prebuilt templates for common customer support workflows."
+  }
+]

@@ -1,0 +1,6 @@
+ticket_id,customer,plan,category,severity,text
+TCK-1001,Acme Finance,Enterprise,Performance,High,Dashboard load time has increased from 3 seconds to 18 seconds after the March release. The customer says executives use this dashboard daily.
+TCK-1002,Northstar Retail,Business,Integration,Medium,Slack notifications fail intermittently when more than 20 alerts are triggered in one hour.
+TCK-1003,ZenHealth,Enterprise,Security,Critical,Customer requested SAML SSO audit logs. Their compliance team needs exportable sign-in history for quarterly review.
+TCK-1004,BrightOps,Startup,Usability,Low,Users are confused by the new workflow builder. They want templates and a guided setup checklist.
+TCK-1005,LogiCore,Enterprise,Reliability,High,Webhook delivery failures increased after API v2 migration. Customer reports missing warehouse status updates.

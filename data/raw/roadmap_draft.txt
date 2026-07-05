@@ -1,0 +1,14 @@
+Roadmap Draft
+
+        Candidate initiatives:
+        - Improve dashboard query performance.
+        - Build SAML audit log CSV export.
+        - Add Microsoft Teams alert integration.
+        - Improve webhook retry reliability.
+        - Add workflow builder templates.
+        - Create role-based dashboard views.
+
+        Constraints:
+        - Backend team has limited capacity this quarter.
+        - Security review is required for audit log features.
+        - Integrations team is already handling Slack reliability work.
